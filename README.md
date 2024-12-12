@@ -1,1 +1,1 @@
-# CCGNN
+# CaPGNN
